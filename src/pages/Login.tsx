@@ -25,7 +25,8 @@ export const Login = () => {
         <h1>Login</h1>
 
         <LoginForm />
-
+        <p>Username: kminchelle</p>
+        <p>Password: 0lelplR</p>
         <Box
           sx={{
             marginTop: 2,
