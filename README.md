@@ -13,7 +13,7 @@ This project is done using [React](https://reactjs.org/) with [TypeScript](https
 
 ## Live Version
 
-TO DO: Deploy to Netlify
+netlify link: https://spectacular-seahorse-c3420a.netlify.app
 
 ## Getting Started
 
